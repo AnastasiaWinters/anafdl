@@ -1,0 +1,19 @@
+// Mute Halloween music so we can freeze player without problems.
+
+"Halloween.dance_loop"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0"
+	"soundlevel"  	"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	"wave"			"misc/halloween/hwn_dance_loop.wav"
+}
+
+"Halloween.dance_howl"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0"
+	"soundlevel"  	"SNDLVL_NONE"
+	"pitch"			"PITCH_NORM"
+	"wave"			"misc/halloween/hwn_dance_howl.wav"
+}
